@@ -4,6 +4,8 @@
 ### - Nicolás Anton De La Villa | nicolas.anton@cunef.edu
 ### - Miguel Ángel Flores Álvarez | miguel.flores@cunef.edu
 
+### Ruta del repositorio: https://github.com/MiguelFlores05/practica1.git
+
 ### En este repositorio, se encuentran las siguientes carpetas, donde al conjugarlas, se genera un Análisis Exploratorio de Datos a fin de establecer un modelo que determine si a un tipo de usuario con ciertas caracterísiticas se le sede un prestámo.
 
 ### - env : Librerías del entorno
