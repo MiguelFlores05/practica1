@@ -15,4 +15,6 @@
 ###    - 01: Exploración general de los datos y preprocesamiento inicial
 ###    - 02: Valores missing, outliers y correlaciones
 ###    - 03: Codificación de variables y escalado
+###    - 04: Seleccion de variables
+###    - 05: Generación de modelo y explicabilidad
 
